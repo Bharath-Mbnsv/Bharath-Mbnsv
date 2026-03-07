@@ -3,21 +3,33 @@
 Software Engineer with experience building distributed systems and networking software for 5G infrastructure at Ericsson.
 
 ## 🔧 Technologies & Skills
-C++ | Python | Java | Distributed Systems | Machine Learning | Linux
+- C++
+- Python
+- Java
+- Distributed Systems
+- Machine Learning
+- Linux
+- Networking (TCP/IP, Ethernet, IPv4/IPv6)
+- CI/CD (Jenkins, Git)
 
 ## 🚀 Featured Projects
-- Conversational AI Voice Chatbot
-- Data Viewer Web Application
 
-## 📊 GitHub Stats
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharath-Mbnsv&show_icons=true)
+### Conversational AI Voice Chatbot
+Real-time voice chatbot using speech-to-text, OpenAI models, and text-to-speech.
 
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-Mbnsv&layout=compact)
+Tech: Python, OpenAI API, Gradio
 
-## 🔗 Connect
+### Data Viewer Web Application
+Full-stack application for dataset visualization and management.
+
+Tech: Java, Spring Boot, React, TypeScript
+
+## 🎓 Education
+MSc Computer Science — Blekinge Institute of Technology  
+Master's Thesis with Ericsson: Machine Learning based PCI planning for 5G networks.
+
+## 📫 Connect with me
 LinkedIn: https://www.linkedin.com/in/bharath-manda
-
 
 <!--
 **Bharath-Mbnsv/Bharath-Mbnsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
