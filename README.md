@@ -1,46 +1,37 @@
 # Hi, I'm Bharath 👋
 
-Software Engineer with experience building distributed systems and networking software for 5G infrastructure at Ericsson. I enjoy solving complex engineering problems and developing scalable backend and AI-driven applications.
+Software Engineer with experience building distributed networking systems for 5G infrastructure at Ericsson.
 
----
+## About Me
+- Systems engineer with experience in **C++, distributed systems, and networking**
+- Worked on **5G transport networking platforms at Ericsson**
+- Built an **ML-driven PCI planning system reducing network interference by 70%**
+- Interested in **AI systems, backend infrastructure, and distributed platforms**
 
-## 🔧 Technologies & Skills
+## Tech Stack
+**Languages**
+C | C++ | Python | Java | TypeScript | JavaScript
 
-- **Languages:** C++, Python, Java
-- **Systems:** Distributed Systems, Linux, Networking (TCP/IP, Ethernet, IPv4/IPv6)
-- **Backend:** REST APIs, Spring Boot
-- **AI/ML:** Machine Learning, Generative AI, OpenAI APIs
-- **Tools:** Git, Jenkins, CI/CD
+**Systems**
+Linux | Distributed Systems | Networking | TCP/IP | IPv4/IPv6
 
----
+**Backend**
+Spring Boot | REST APIs | Multithreading
 
-## 🚀 Featured Projects
+**AI/ML**
+Machine Learning | DBSCAN | NumPy | Pandas | Scikit-learn | OpenAI API
+
+## Projects
 
 ### Conversational AI Voice Chatbot
-Real-time voice chatbot using speech-to-text, OpenAI language models, and text-to-speech pipelines.
-
-**Tech:** Python, OpenAI API, Gradio
+Real-time voice chatbot using Python, OpenAI API, and Gradio integrating speech-to-text and text-to-speech pipelines.
 
 ### Data Viewer Web Application
-Full-stack web application for dataset visualization and management.
+Full-stack data visualization platform built using Spring Boot and React.
 
-**Tech:** Java, Spring Boot, React, TypeScript
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/bharath-manda
 
----
-
-## 🎓 Education
-
-**MSc Computer Science — Blekinge Institute of Technology, Sweden**
-
-Master’s thesis in collaboration with Ericsson:  
-Machine learning-based PCI planning system for 5G networks.
-
----
-
-## 🔗 Connect with me
-
-LinkedIn:  
-https://www.linkedin.com/in/bharath-manda
 
 <!--
 **Bharath-Mbnsv/Bharath-Mbnsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
