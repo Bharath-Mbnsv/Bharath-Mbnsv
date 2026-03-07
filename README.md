@@ -1,35 +1,21 @@
 # Hi, I'm Bharath 👋
 
-Software Engineer with experience building distributed networking systems for 5G infrastructure at Ericsson.
+Software Engineer with experience building distributed systems and networking software for 5G infrastructure at Ericsson.
 
-## About Me
-- Systems engineer with experience in **C++, distributed systems, and networking**
-- Worked on **5G transport networking platforms at Ericsson**
-- Built an **ML-driven PCI planning system reducing network interference by 70%**
-- Interested in **AI systems, backend infrastructure, and distributed platforms**
+## 🔧 Technologies & Skills
+C++ | Python | Java | Distributed Systems | Machine Learning | Linux
 
-## Tech Stack
-**Languages**
-C | C++ | Python | Java | TypeScript | JavaScript
+## 🚀 Featured Projects
+- Conversational AI Voice Chatbot
+- Data Viewer Web Application
 
-**Systems**
-Linux | Distributed Systems | Networking | TCP/IP | IPv4/IPv6
+## 📊 GitHub Stats
+![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharath-Mbnsv&show_icons=true)
 
-**Backend**
-Spring Boot | REST APIs | Multithreading
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-Mbnsv&layout=compact)
 
-**AI/ML**
-Machine Learning | DBSCAN | NumPy | Pandas | Scikit-learn | OpenAI API
-
-## Projects
-
-### Conversational AI Voice Chatbot
-Real-time voice chatbot using Python, OpenAI API, and Gradio integrating speech-to-text and text-to-speech pipelines.
-
-### Data Viewer Web Application
-Full-stack data visualization platform built using Spring Boot and React.
-
-## Connect with me
+## 🔗 Connect
 LinkedIn: https://www.linkedin.com/in/bharath-manda
 
 
