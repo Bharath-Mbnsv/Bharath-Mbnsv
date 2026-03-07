@@ -28,18 +28,6 @@ Full-stack web application for dataset visualization and management.
 
 ---
 
-## 📊 GitHub Stats
-
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharath-Mbnsv&show_icons=true)
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-Mbnsv&layout=compact)
-
----
-
 ## 🎓 Education
 
 **MSc Computer Science — Blekinge Institute of Technology, Sweden**
