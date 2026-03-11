@@ -1,36 +1,84 @@
 # Hi, I'm Bharath 👋
 
-Software Engineer with experience building distributed systems and networking software for 5G infrastructure at Ericsson.
+Software Engineer with experience building **distributed networking systems and backend infrastructure** for 5G platforms at Ericsson. I work primarily with **C++, Python, and Java**, focusing on distributed systems, networking, and scalable backend applications. I am also exploring **AI-powered software systems and machine learning applications**.
 
-## 🔧 Technologies & Skills
-- C++
+---
+
+## 🔧 Tech Stack
+
+**Languages**
+- C / C++
 - Python
 - Java
+- TypeScript / JavaScript
+
+**Systems & Backend**
 - Distributed Systems
-- Machine Learning
 - Linux
 - Networking (TCP/IP, Ethernet, IPv4/IPv6)
-- CI/CD (Jenkins, Git)
+- REST APIs
+- Multithreading
+
+**AI / Data**
+- Machine Learning
+- DBSCAN Clustering
+- NumPy
+- Pandas
+- Scikit-learn
+- OpenAI API
+
+**Tools**
+- Git
+- Jenkins (CI/CD)
+- Bash
+- Docker (learning)
+
+---
 
 ## 🚀 Featured Projects
 
 ### Conversational AI Voice Chatbot
-Real-time voice chatbot using speech-to-text, OpenAI models, and text-to-speech.
+Real-time conversational voice assistant integrating **speech-to-text, OpenAI LLMs, and text-to-speech pipelines**.
 
-Tech: Python, OpenAI API, Gradio
+**Tech Stack**
+- Python
+- OpenAI API
+- Gradio
+
+---
 
 ### Data Viewer Web Application
-Full-stack application for dataset visualization and management.
+Full-stack data visualization platform for managing and exploring datasets.
 
-Tech: Java, Spring Boot, React, TypeScript
+**Tech Stack**
+- Java
+- Spring Boot
+- React
+- TypeScript
+
+---
+
+## 📡 Research & Industry Work
+
+At **Ericsson**, I worked on **transport networking systems for 5G infrastructure**, contributing to C++ networking modules, system validation, and CI/CD automation for large-scale telecom platforms.
+
+I also developed a **machine learning–based PCI planning system** during my master's thesis that reduced network interference by **70%** across telecom datasets.
+
+---
 
 ## 🎓 Education
-MSc Computer Science — Blekinge Institute of Technology  
-Master's Thesis with Ericsson: Machine Learning based PCI planning for 5G networks.
+**MSc Computer Science**  
+Blekinge Institute of Technology, Sweden  
+
+**B.Tech Computer Science**  
+Jawaharlal Nehru Technological University Hyderabad
+
+---
 
 ## 📫 Connect with me
-LinkedIn: https://www.linkedin.com/in/bharath-manda
 
+- LinkedIn: https://www.linkedin.com/in/bharath-manda
+  
 <!--
 **Bharath-Mbnsv/Bharath-Mbnsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
