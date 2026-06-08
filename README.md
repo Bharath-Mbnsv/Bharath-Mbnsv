@@ -1,6 +1,6 @@
 # Hi, I'm Bharath 👋
 
-Software Engineer with experience building **distributed networking systems and backend infrastructure** for 5G platforms at Ericsson. I work primarily with **C++, Python, and Java**, focusing on distributed systems, networking, and scalable backend applications. I am also exploring **AI-powered software systems and machine learning applications**.
+Software Engineer with experience building **distributed networking systems and backend infrastructure** for 5G platforms at Ericsson. I work primarily with **C++, Python, and Java**, focusing on distributed systems, networking, and scalable backend applications. I have also developed **AI-powered full-stack applications leveraging LLMs, RAG pipelines, and agent-based architectures** to solve real-world problems in customer service and financial analysis.
 
 ---
 
@@ -18,43 +18,59 @@ Software Engineer with experience building **distributed networking systems and 
 - Networking (TCP/IP, Ethernet, IPv4/IPv6)
 - REST APIs
 - Multithreading
+- FastAPI
+- Multithreading & Concurrency
 
 **AI / Data**
 - Machine Learning
-- DBSCAN Clustering
+- LLM Applications
+- Agentic AI Systems
+- MCP (Model Context Protocol)
+- RAG (FAISS, Embeddings)
+- LangGraph
+- OpenAI API
 - NumPy
 - Pandas
 - Scikit-learn
-- OpenAI API
 
 **Tools**
-- Git
+- Docker
+- Kubernetes
 - Jenkins (CI/CD)
+- Git
 - Bash
-- Docker (learning)
+- AWS
 
 ---
 
 ## 🚀 Featured Projects
 
-### Conversational AI Voice Chatbot
-Real-time conversational voice assistant integrating **speech-to-text, OpenAI LLMs, and text-to-speech pipelines**.
+### AI Finance Assistant
+Multi-agent AI finance platform utilizing **RAG, MCP, and LLM orchestration** to provide portfolio analysis, market insights, and financial planning assistance.
 
 **Tech Stack**
-- Python
+- FastAPI
+- React
+- LangGraph
+- MCP
+- FAISS
 - OpenAI API
-- Gradio
+- Docker
+- Kubernetes
 
 ---
 
-### Data Viewer Web Application
-Full-stack data visualization platform for managing and exploring datasets.
+### AI Call Center Assistant
+Full-stack AI-powered call center analysis platform leveraging **multi-agent workflows, speech processing, and LLM-based reasoning** for automated transcription, summarization, and QA evaluation.
 
 **Tech Stack**
-- Java
-- Spring Boot
+- FastAPI
 - React
-- TypeScript
+- LangGraph
+- MCP
+- OpenAI API
+- Whisper
+- Docker
 
 ---
 
